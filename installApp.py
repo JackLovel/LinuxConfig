@@ -6,7 +6,7 @@
 import os
 
 
-app_list = [ 'firefox', 'git', 'atom', 'python3-pip', 'python-pip', 'emacs' ]
+app_list = [ 'firefox', 'git', 'atom', 'python3-pip', 'python-pip', 'emacs',  'mysql-server', 'mysql-workbench', 'python3-venv', ]
 
 
 for i in app_list:
