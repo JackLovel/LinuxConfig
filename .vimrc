@@ -1,3 +1,7 @@
+###################
+# 简单的 vim 配置
+###################
+
 set number          "显示行号                                                                      
 set cursorline      "突出显示当前行
 set tabstop=4       "设定tab长度为4
