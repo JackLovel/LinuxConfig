@@ -8,6 +8,6 @@ set nocompatible
 set writebackup     "正常关闭前 建立备份文件
 set nobackup        "正常关闭后 自动删除建立的备份文件
 set history=1000    "记录历史的行数
-set shortmess=atl   “消除 请按 ENTER 或其它命令继续 在进入vim编辑器前总会出现这行字
+set shortmess=atl   "消除 请按 ENTER 或其它命令继续 在进入vim编辑器前总会出现这行字
 set shiftwidth=4
 set expandtab
