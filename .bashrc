@@ -1,3 +1,7 @@
+########################
+# 额外添加的部分
+########################
+
 # update system
 alias up="sudo apt-get update && sudo apt-get upgrade"
 
