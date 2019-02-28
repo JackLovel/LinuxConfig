@@ -1,0 +1,10 @@
+firefox
+git
+atom
+python3-pip
+python-pip
+emacs
+mysql-server
+mysql-workbench
+python3-venv
+python-virtualenv
