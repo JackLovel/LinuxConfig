@@ -1,0 +1,9 @@
+[user]
+	name = JackLovel
+	email = 2101721230@qq.com
+[alias]
+	gi = git
+	st = status
+	ci = commit
+	pl = pull
+	lg = log
